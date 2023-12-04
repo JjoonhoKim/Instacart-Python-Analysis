@@ -8,6 +8,7 @@ The objective is to conduct an initial data and exploratory analysis for Instaca
 Instacart stakeholders prioritize understanding customer variety and purchasing behaviors. Recognizing the need for targeted marketing, they aim to tailor campaigns for different customer segments. This analysis will guide the development of a strategy to ensure Instacart effectively targets specific customer profiles with relevant products.
 
 **Key Questions**
+
 ●The sales team needs to know what the busiest days of the week and hours of the
 day are (i.e., the days and times with the most orders) in order to schedule ads at
 times when there are fewer orders.
